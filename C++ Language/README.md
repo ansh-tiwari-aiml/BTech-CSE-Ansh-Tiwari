@@ -1,4 +1,4 @@
-# 01 - C++ Language - Core Concepts
+01-cpp-language/README.md
 
 This folder contains 15 lectures covering C++ from basics to advanced topics.
 
